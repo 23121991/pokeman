@@ -1,0 +1,87 @@
+h1{
+text-align: center;
+font-size: 150px;
+color:purple;
+font-family:cursive;
+margin: 30px;
+}
+h2{
+    margin-top:20px ;
+    padding-bottom: 30px;
+}
+
+
+
+
+div.button{
+background-color:rgb(128, 255, 0);
+color: brown;
+
+}
+body{
+    background-color:lavender;
+
+}
+.img{
+    background-color: rgb(147, 229, 238);
+    width:max-content;
+    height:max-content;
+}
+.card-body{
+    background-color: yellowgreen;
+    color:rgb(61, 26, 26);
+    font-family:cursive;
+    font-size: 30px;
+    padding: 5px 50px ;
+}
+#weight{
+    color: rgba(220, 53, 20, 0.934);
+    font-size: 30px;
+    margin: 30px;
+    font-family: bold;
+}
+#moves{
+    color:rgb(218, 32, 196);
+    font-size: 30px;
+    font-family:bold;
+    margin: 30px;
+}
+#ability{
+    color:darkgreen;
+    text-align: center;
+    font-size:40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+
+}
+.card{
+    background-color:wheat;
+    margin:20px;
+    padding:20px;
+}
+.cardgroup{
+    background-color:rgb(96, 5, 5);
+    height: 300px;
+    width: 400px;
+ 
+}
+
+img.card.img.top{
+    background-color:rgb(246, 248, 237);
+    max-height:1000px;
+    max-width: 1000px;
+}
+.col-md-3{
+margin: 10px;
+padding: 10px;
+    max-width: fit-content;
+}
+.row{
+
+    border-bottom: 3px;
+    margin-right: 3px;
+    padding-right: 5px;
+}
+.container{
+    padding: 30px;
+}
